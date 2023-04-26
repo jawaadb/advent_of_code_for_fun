@@ -1,0 +1,9 @@
+{
+    "code-runner.executorMap": {
+       // run Scilab with graphic Functions
+       //"scilab": "cd $dir && \"D:\\Program Files\\scilab-6.1.1\\bin\\WScilex-cli.exe\" -nb -f $fileName -quit",
+
+       // run Scilab without graphics functions
+       "scilab": "cd $dir && \"D:\\Program Files\\scilab-6.1.1\\bin\\Scilex.exe\" -nb -f $fileName -quit",
+   },
+}
